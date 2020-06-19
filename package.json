@@ -1,0 +1,35 @@
+{
+    "name": "daves-pharmacy-pano",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "NODE_ENV=development && webpack-dev-server",
+        "build": "NODE_ENV=production && webpack --mode production"
+    },
+    "prettier": {
+        "semi": false,
+        "trailingComma": "es5",
+        "singleQuote": true,
+        "printWidth": 70,
+        "tabWidth": 4
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.10.2",
+        "@babel/preset-env": "^7.10.2",
+        "alpinejs": "^2.4.0",
+        "babel-loader": "^8.1.0",
+        "css-loader": "^3.6.0",
+        "pannellum": "^2.5.6",
+        "postcss-loader": "^3.0.0",
+        "prettier": "^2.0.5",
+        "style-loader": "^1.2.1",
+        "tailwindcss": "^1.4.6",
+        "webpack": "^4.43.0",
+        "webpack-cli": "^3.3.12",
+        "webpack-dev-server": "^3.11.0"
+    }
+}
