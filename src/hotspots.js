@@ -25,6 +25,7 @@ const hotspots = [
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
+                <img src="/img/DSC_0007-min.jpg"/>
                 <p class="text-gray-800">
                     Developed by a pharmacist and a mother for her daughter with eczema,
                     <strong>Kosmatology is made</strong> with your skin in mind. We offer the
@@ -52,6 +53,7 @@ const hotspots = [
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
+                <img src="/img/IMG_0093-min.jpg"/>
                 <p class="text-gray-800">
                     Check out our seasonal section! We keep you health in
                     mind through every season. From our array of sun blocks
@@ -81,6 +83,7 @@ const hotspots = [
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
+                <img src="/img/IMG_0079-min.jpg"/>
                 <p class="text-gray-800">
                     From crutches to canes and even a flashy red walker, we have
                     your essential home health needs covered!

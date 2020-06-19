@@ -4,6 +4,12 @@ This is a panoramic view of their store with popups. Its iframed in their site w
 
 ## Commands
 
+Install node modules
+
+```bash
+npm install
+```
+
 Develop locally
 
 ```bash
