@@ -1,1 +1,4 @@
 node_modules
+
+# Not using a html script insert plugin, so just manually ignoring
+dist/main.js
