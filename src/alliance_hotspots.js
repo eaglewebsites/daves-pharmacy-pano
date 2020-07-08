@@ -17,7 +17,7 @@ const alliance_hotspots = [
     {
         pitch: 8, // up and down on x axis
         yaw: -60, // left and right on y axis
-        cssClass: 'custom-hotspot',
+        cssClass: 'custom-hotspot-alliance',
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
@@ -31,7 +31,7 @@ const alliance_hotspots = [
     {
         pitch: -8, // up and down on x axis
         yaw: 44, // left and right on y axis
-        cssClass: 'custom-hotspot',
+        cssClass: 'custom-hotspot-alliance',
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
@@ -47,7 +47,7 @@ const alliance_hotspots = [
     {
         pitch: 2, // up and down on x axis
         yaw: 16, // left and right on y axis
-        cssClass: 'custom-hotspot',
+        cssClass: 'custom-hotspot-alliance',
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
@@ -61,7 +61,7 @@ const alliance_hotspots = [
     {
         pitch: 6, // up and down on x axis
         yaw: 61, // left and right on y axis
-        cssClass: 'custom-hotspot',
+        cssClass: 'custom-hotspot-alliance',
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
@@ -75,7 +75,7 @@ const alliance_hotspots = [
     {
         pitch: -22, // up and down on x axis
         yaw: 32, // left and right on y axis
-        cssClass: 'custom-hotspot',
+        cssClass: 'custom-hotspot-alliance',
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
@@ -92,7 +92,7 @@ const alliance_hotspots = [
     {
         pitch: -12, // up and down on x axis
         yaw: 25, // left and right on y axis
-        cssClass: 'custom-hotspot',
+        cssClass: 'custom-hotspot-alliance',
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
@@ -107,7 +107,7 @@ const alliance_hotspots = [
     {
         pitch: 3, // up and down on x axis
         yaw: 1, // left and right on y axis
-        cssClass: 'custom-hotspot',
+        cssClass: 'custom-hotspot-alliance',
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
@@ -122,7 +122,7 @@ const alliance_hotspots = [
     {
         pitch: -4, // up and down on x axis
         yaw: -27, // left and right on y axis
-        cssClass: 'custom-hotspot',
+        cssClass: 'custom-hotspot-alliance',
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
@@ -138,7 +138,7 @@ const alliance_hotspots = [
     {
         pitch: -15, // up and down on x axis
         yaw: 5, // left and right on y axis
-        cssClass: 'custom-hotspot',
+        cssClass: 'custom-hotspot-alliance',
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
@@ -152,7 +152,7 @@ const alliance_hotspots = [
     {
         pitch: -7, // up and down on x axis
         yaw: -54, // left and right on y axis
-        cssClass: 'custom-hotspot',
+        cssClass: 'custom-hotspot-alliance',
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
@@ -164,8 +164,8 @@ const alliance_hotspots = [
     },
     {
         pitch: 0, // up and down on x axis
-        yaw: -44, // left and right on y axis
-        cssClass: 'custom-hotspot',
+        yaw: -47, // left and right on y axis
+        cssClass: 'custom-hotspot-alliance',
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
@@ -178,7 +178,7 @@ const alliance_hotspots = [
     {
         pitch: -15, // up and down on x axis
         yaw: -37, // left and right on y axis
-        cssClass: 'custom-hotspot',
+        cssClass: 'custom-hotspot-alliance',
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>
@@ -189,8 +189,8 @@ const alliance_hotspots = [
     },
     {
         pitch: 7, // up and down on x axis
-        yaw: -43, // left and right on y axis
-        cssClass: 'custom-hotspot',
+        yaw: -38, // left and right on y axis
+        cssClass: 'custom-hotspot-alliance',
         createTooltipFunc: hotspot,
         createTooltipArgs: `
             <div>

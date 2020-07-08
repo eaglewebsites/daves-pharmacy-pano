@@ -40,12 +40,12 @@ const alliance_pharmacy = () => {
             pannellum.viewer('panorama', {
                 type: 'equirectangular',
                 panorama: '/img/Alliance_Pano.jpg',
+                preview: '/img/Alliance_Pano.jpg',
                 haov: 160.87, // wideness
                 vaov: 70.15, // height
                 vOffset: 0, // view offset (how 'high' you have to look),
                 hfov: 50, //zoom level,
                 hotSpots: alliance_hotspots,
-                autoLoad: true,
             })
         },
     }
